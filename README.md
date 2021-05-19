@@ -4,7 +4,7 @@ Currently I work as a DevOps Enginner, but I also do something related to Intern
 
 [![Linkedin Badge](https://img.shields.io/badge/-edsuwarna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsuwarna/)](https://www.linkedin.com/in/edsuwarna/)
 [![Mail Badge](https://img.shields.io/badge/-es@edsuwarna.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:es@edsuwarna.xyz)](mailto:es@edsuwarna.xyz)
-[![Facebook Badge](https://img.shields.io/badge/edsuwarna-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/edsuwarna/)](https://facebook.com/edsuwana)
+[![Facebook Badge](https://img.shields.io/badge/edsuwarna-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/edsuwarna/)](https://facebook.com/edsuwarna)
 
 ### Technologies
 ![Amazon Web Service](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws)
