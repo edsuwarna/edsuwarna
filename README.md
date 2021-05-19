@@ -29,7 +29,7 @@ Currently I work as a DevOps Enginner, but I also do something related to Intern
 ![Github Action](https://img.shields.io/badge/Github_Action-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
-### Workspace and Tools
+### Workspace
 ![Macbook Pro](https://img.shields.io/badge/Macbook_Pro_2020_Core_i5_8GB-999999?style=flat-square&logo=apple&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_3B+-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![MacOS](https://img.shields.io/badge/macOS_Big_Sur-bf276f?style=flat-square&logo=apple&logoColor=white)
