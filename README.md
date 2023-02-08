@@ -4,7 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/edsuwarna-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/edsuwarna/)](https://facebook.com/edsuwarna)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=edsuwarna)
 
-Currently I work as a DevOps Enginner, but I also do something related to Internet of Things and Data outside of my main job as a devops engineer.
+Currently I work as a DevOps Enginner, but I also do something related to Internet of Things and Embedded System outside of my main job as a devops engineer.
 
 ### Technologies
 ![Amazon Web Service](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws)
