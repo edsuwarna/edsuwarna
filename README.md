@@ -1,6 +1,6 @@
 ### Hi👋
 
-I'm Endang Suwarna, a DevOps Engineer. In my spare time I build a home lab to study infrastructure more deeply besides that I also work on things related to the Internet of Things and embedded systems. I'm also happy and willing to share about technology at community events.
+I'm Endang Suwarna, a DevOps Engineer. In my free time I build a home lab to study infrastructure more deeply besides that I also work on things related to the Internet of Things and embedded systems. I'm also happy and willing to share about technology at community events.
 
 # 🧑‍💻 My open source repos
 
