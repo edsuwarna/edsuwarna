@@ -1,8 +1,19 @@
+![github-header-image (4)](https://github.com/edsuwarna/edsuwarna/assets/15072029/513295b2-487c-48ff-b0bb-baf836e3b498)
+
 ### Hi👋
 
 I'm Endang Suwarna, a DevOps Engineer. In my free time I build a home lab to learn infrastructure more deeply besides that I also work on things related to the Internet of Things and embedded systems. I'm also happy and willing to share about technology at community events.
 
-# 🧑‍💻 My open source repos
+### Connect with me
+<a href="https://twitter.com/edsuwarna">
+  <img align="left" alt="Edsuwarna's Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/edsuwarna/">
+  <img align="left" alt="Edsuwarna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+
+### My open source repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsuwarna&repo=pangkalan&theme=radical)](https://github.com/edsuwarna/pangkalan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsuwarna&repo=whatilearned&theme=radical)](https://github.com/edsuwarna/whatilearned)
