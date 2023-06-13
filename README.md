@@ -1,8 +1,21 @@
 ![github-header-image (5)](https://github.com/edsuwarna/edsuwarna/assets/15072029/aadbd9fb-69e3-4eaa-9e1a-07113966a84b)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<h2 align="center">
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<h2>
 
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-edsuwarna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edsuwarna/)](https://www.linkedin.com/in/edsuwarna/)
+[![Mail Badge](https://img.shields.io/badge/-es@edsuwarna.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:es@edsuwarna.xyz)](mailto:es@edsuwarna.xyz)
+[![Twitter Badge](https://img.shields.io/badge/-edsuwarna-blue?style=flat-square&label&logo=Twitter&logoColor=white&link=https://www.twitter.com/edsuwarna)](https://www.twitter.com/edsuwarna)
+
+</div>
+
+<h3 align="center">
 I'm Endang Suwarna, a DevOps Engineer. In my free time I build a home lab to learn infrastructure more deeply besides that I also work on things related to the Internet of Things and embedded systems. I'm also happy and willing to share about technology at community events.
+<h3>
+
 
 
 ### My open source repos
