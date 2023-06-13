@@ -1,4 +1,4 @@
-![github-header-image (4)](https://github.com/edsuwarna/edsuwarna/assets/15072029/513295b2-487c-48ff-b0bb-baf836e3b498)
+![github-header-image (5)](https://github.com/edsuwarna/edsuwarna/assets/15072029/aadbd9fb-69e3-4eaa-9e1a-07113966a84b)
 
 ### Hi👋
 
