@@ -8,6 +8,3 @@ I'm Endang Suwarna, a DevOps Engineer. In my free time I build a home lab to lea
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsuwarna&repo=whatilearned&theme=radical)](https://github.com/edsuwarna/whatilearned)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edsuwarna&repo=dotfile&theme=radical)](https://github.com/edsuwarna/dotfile)
 
-# 📊 My Stats
-
-![Edsuwarna github stats](https://github-readme-stats.vercel.app/api?username=edsuwarna&show_icons=true&count_private=true&theme=radical&hide=stars)
