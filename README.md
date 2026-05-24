@@ -49,10 +49,10 @@ I'm a DevOps Engineer passionate about cloud infrastructure, bare-metal servers,
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edsuwarna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&icon_color=10b981&border_color=1e293b" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edsuwarna&layout=compact&langs_count=8&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&icon_color=10b981&border_color=1e293b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsuwarna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&icon_color=10b981&border_color=1e293b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsuwarna&layout=compact&langs_count=8&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&icon_color=10b981&border_color=1e293b" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=edsuwarna&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=10b981&fire=10b981&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=10b981&sideLabels=94a3b8&dates=475569" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=edsuwarna&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=10b981&fire=10b981&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=10b981&sideLabels=94a3b8&dates=475569" width="70%" />
 </p>
 
 ---
