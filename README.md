@@ -40,107 +40,97 @@ I'm a DevOps Engineer passionate about cloud infrastructure, bare-metal servers,
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,kubernetes,docker,aws,gcp,linux,bash,git,grafana,prometheus,nginx,postgres,redis,terraform,ansible,githubactions,fastapi" />
-</p>
+### 🐳 Container Orchestration
+Building and managing containerized applications using Docker and container orchestration platforms.
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### ☸️ Kubernetes & Orchestration
+Designing and maintaining scalable Kubernetes clusters for production workloads. From bare-metal setups to managed services.
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=google-kubernetes-engine&logoColor=white)
+
+### 🔄 CI/CD Pipelines
+Building automated pipelines that enable rapid, reliable deployments from code commit to production.
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-48BAA4?style=flat-square&logo=flux&logoColor=white)
+
+### ☁️ Cloud Infrastructure
+Architecting and managing cloud infrastructure across AWS and GCP.
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### 📊 Monitoring & Observability
+Comprehensive monitoring solutions to ensure system reliability and quick incident response.
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-6DB33F?style=flat-square&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-60C0E0?style=flat-square&logo=jaeger&logoColor=white)
+
+### 🖥️ Infrastructure & Virtualization
+Building and managing virtualized environments and network security infrastructure.
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🔒 Security & Compliance
+Implementing security best practices throughout infrastructure lifecycle.
+
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
+![RBAC](https://img.shields.io/badge/RBAC-10b981?style=flat-square)
+
+### 💻 Languages & Tools
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
 ## 📌 Pinned Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Container Cost</h3>
-      <p align="center">
-        <a href="https://github.com/edsuwarna/container-cost">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=edsuwarna&repo=container-cost&title_color=10b981&text_color=e2e8f0&icon_color=10b981&bg_color=0f172a&border_color=1e293b&border_radius=12" width="100%" />
-        </a>
-      </p>
-      <p align="center">Docker container cost tracking dashboard with real-time monitoring, RBAC, and PostgreSQL.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">News Archive</h3>
-      <p align="center">
-        <a href="https://github.com/edsuwarna/news-archieve">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=edsuwarna&repo=news-archieve&title_color=10b981&text_color=e2e8f0&icon_color=10b981&bg_color=0f172a&border_color=1e293b&border_radius=12" width="100%" />
-        </a>
-      </p>
-      <p align="center">Automated news aggregation and archival system with git-backed version history.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Personal Web</h3>
-      <p align="center">
-        <a href="https://github.com/edsuwarna/personal-web">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=edsuwarna&repo=personal-web&title_color=10b981&text_color=e2e8f0&icon_color=10b981&bg_color=0f172a&border_color=1e293b&border_radius=12" width="100%" />
-        </a>
-      </p>
-      <p align="center">Modern portfolio & blog built with Hugo, dark mode, and responsive design.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=hugo&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">VPS Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/edsuwarna/vps-dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=edsuwarna&repo=vps-dashboard&title_color=10b981&text_color=e2e8f0&icon_color=10b981&bg_color=0f172a&border_color=1e293b&border_radius=12" width="100%" />
-        </a>
-      </p>
-      <p align="center">Multi-VPS management with RBAC, web terminal, and real-time system monitoring.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+### [Container Cost](https://github.com/edsuwarna/container-cost)
+> Docker container cost tracking dashboard with real-time monitoring, RBAC, Chart.js visualization, and PostgreSQL backend.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![GitHub Stars](https://img.shields.io/github/stars/edsuwarna/container-cost?style=flat-square&logo=github&color=10b981)](https://github.com/edsuwarna/container-cost)
+[![GitHub Issues](https://img.shields.io/github/issues/edsuwarna/container-cost?style=flat-square&logo=github&color=10b981)](https://github.com/edsuwarna/container-cost/issues)
 
 ---
 
-## 📊 GitHub Stats
+### [News Archive](https://github.com/edsuwarna/news-archieve)
+> Automated news aggregation and archival system that collects, categorizes, and stores articles from multiple sources with git-backed version history.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edsuwarna&show_icons=true&count_private=true&title_color=10b981&text_color=e2e8f0&icon_color=10b981&bg_color=0f172a&border_color=1e293b&border_radius=12&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Edsuwarna&theme=dark&background=0f172a&border=1e293b&stroke=10b981&ring=10b981&fire=10b981&currStreakNum=e2e8f0&sideNums=94a3b8&currStreakLabel=10b981&sideLabels=94a3b8&dates=475569&hide_border=true" width="48%" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-10b981?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsuwarna&layout=compact&title_color=10b981&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&border_radius=12&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Edsuwarna&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" />
-</p>
-
----
-
-## 📈 Weekly Activity
-
-<!--START_SECTION:waka-->
-```text
-No recent activity data available.
-```
-<!--END_SECTION:waka-->
+[![GitHub Stars](https://img.shields.io/github/stars/edsuwarna/news-archieve?style=flat-square&logo=github&color=10b981)](https://github.com/edsuwarna/news-archieve)
+[![GitHub Issues](https://img.shields.io/github/issues/edsuwarna/news-archieve?style=flat-square&logo=github&color=10b981)](https://github.com/edsuwarna/news-archieve/issues)
 
 ---
 
