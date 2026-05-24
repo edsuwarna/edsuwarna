@@ -12,18 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://edsuwarna.id">
-    <img src="https://img.shields.io/badge/-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/edsuwarna">
-    <img src="https://img.shields.io/badge/-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/edsuwarna">
-    <img src="https://img.shields.io/badge/-1f2937?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:endang@edsuwarna.id">
-    <img src="https://img.shields.io/badge/-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://edsuwarna.id"><img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/googlechrome.svg" width="32" height="32" alt="Website" style="max-width: 100%;" /></a>
+  <a href="https://linkedin.com/in/edsuwarna"><img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" style="max-width: 100%;" /></a>
+  <a href="https://github.com/edsuwarna"><img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/github.svg" width="32" height="32" alt="GitHub" style="max-width: 100%;" /></a>
+  <a href="mailto:endang@edsuwarna.id"><img src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/gmail.svg" width="32" height="32" alt="Email" style="max-width: 100%;" /></a>
 </p>
 
 ---
