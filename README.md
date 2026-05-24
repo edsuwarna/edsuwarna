@@ -46,71 +46,161 @@ I'm a DevOps Engineer passionate about cloud infrastructure, bare-metal servers,
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Technologies I Work With
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsuwarna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&icon_color=10b981&border_color=1e293b" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsuwarna&layout=compact&langs_count=8&bg_color=0f172a&title_color=10b981&text_color=e2e8f0&icon_color=10b981&border_color=1e293b" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=edsuwarna&theme=dark&hide_border=true&background=0f172a&stroke=1e293b&ring=10b981&fire=10b981&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=10b981&sideLabels=94a3b8&dates=475569" width="70%" />
+<details>
+<summary><b>🐳 Container Orchestration</b> — Docker, Compose, Registry</summary>
+<br>
+Building and managing containerized applications using Docker. Implementing multi-stage builds, container optimization, security best practices, and container registry management.
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container_Registry-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--stage_Builds-1f2937?style=flat-square" />
 </p>
+</details>
+
+<details>
+<summary><b>☸️ Kubernetes & Orchestration</b> — K8s, Helm, CRDs, Operators</summary>
+<br>
+Designing and maintaining scalable Kubernetes clusters for production workloads. Setting up clusters on bare metal (k3s) and cloud-managed services (EKS, GKE). Using Helm for packaging, Custom Resource Definitions (CRDs), and Kubernetes Operators for automation.
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_GKE-4285F4?style=flat-square&logo=google-kubernetes-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRDs-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/K8s_Operators-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🔄 CI/CD Pipelines</b> — GitHub Actions, GitLab CI, Automated Testing</summary>
+<br>
+Building automated pipelines for rapid, reliable deployments. Implementing automated testing and linting, zero-downtime deployment strategies, and Infrastructure as Code integration.
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automated_Testing-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zero--downtime_Deploy-1f2937?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>🌿 GitOps & Continuous Delivery</b> — ArgoCD, FluxCD, Progressive Delivery</summary>
+<br>
+Implementing GitOps workflows for continuous deployment using Git as the single source of truth. Managing Kubernetes applications through Git repositories with progressive delivery strategies and automated cluster synchronization.
+
+<p>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluxCD-48BAA4?style=flat-square&logo=flux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progressive_Delivery-10b981?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>☁️ Cloud Infrastructure</b> — AWS, GCP, Cost Optimization</summary>
+<br>
+Architecting and managing cloud infrastructure across AWS (EC2, EKS, S3, RDS, VPC) and GCP (GKE, Cloud SQL, Compute Engine). Implementing best practices for cost optimization, security, and scalability.
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cost_Optimization-10b981?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>🏗️ Infrastructure as Code</b> — Terraform, Ansible</summary>
+<br>
+Automating infrastructure provisioning and configuration management using modern IaC tools. Provisioning VMs and Kubernetes clusters in AWS and GCP with Terraform, and managing configurations with Ansible.
+
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>📊 Monitoring & Observability</b> — Prometheus, Grafana, Loki, Jaeger</summary>
+<br>
+Setting up comprehensive monitoring with Prometheus metrics collection and Grafana dashboards. Implementing distributed tracing with Jaeger and log aggregation with EFK/Loki stack.
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-6DB33F?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jaeger-60C0E0?style=flat-square&logo=jaeger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uptime_Monitoring-10b981?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>🖥️ Infrastructure & Virtualization</b> — Proxmox, OpenStack, pfSense</summary>
+<br>
+Building and managing virtualized environments with Proxmox VE and OpenStack. Managing Kubernetes clusters on bare-metal infrastructure and implementing network security using pfSense firewall.
+
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+</details>
+
+<details>
+<summary><b>🔒 Security & Compliance</b> — Trivy, Vault, RBAC, ISO 27001</summary>
+<br>
+Implementing security best practices across infrastructure lifecycle: container image scanning with Trivy, secrets management with HashiCorp Vault, RBAC implementation, and compliance frameworks (ISO 27001, PCI DSS).
+
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/RBAC-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/ISO_27001-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/PCI_DSS-1f2937?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>💻 Languages & Tools</b> — Go, Python, Bash, PostgreSQL, Redis</summary>
+<br>
+Proficient in Go and Python for building CLI tools, automation scripts, and backend services. Experienced with PostgreSQL, Redis, and Nginx for data persistence and web serving.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
+</details>
 
 ---
 
-## 🛠️ Tech Stack
-
-### ☸️ Container & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![FluxCD](https://img.shields.io/badge/FluxCD-48BAA4?style=flat-square&logo=flux&logoColor=white)
-
-### ☁️ Cloud & IaC
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
-
-### 🔄 CI/CD & GitOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 📊 Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-6DB33F?style=flat-square&logo=grafana&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-60C0E0?style=flat-square&logo=jaeger&logoColor=white)
-
-### 🔒 Security
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
-
-### 💻 Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-### 🗄️ Data & Networking
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-
----
-
-## 📌 Featured Projects
+## 📌 Pinned Project
 
 ### 📰 News Archive
 > Automated news aggregation and archival system that collects, categorizes, and stores articles from multiple sources with git-backed version history.
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white)](https://github.com/edsuwarna/news-archieve)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-10b981?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <a href="https://github.com/edsuwarna/news-archieve">
+    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
