@@ -40,70 +40,132 @@ I'm a DevOps Engineer passionate about cloud infrastructure, bare-metal servers,
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
 <details>
-<summary><b>🐳 Container & Orchestration</b> — Docker, Kubernetes, Helm</summary>
+<summary><b>🐳 Container Orchestration</b> — Docker, Compose, Registry</summary>
 <br>
-Building and managing containerized applications using Docker and container orchestration platforms. Designing and maintaining scalable Kubernetes clusters for production workloads — from bare-metal (k3s) to cloud-managed services (EKS, GKE).
+Building and managing containerized applications using Docker. Implementing multi-stage builds, container optimization, security best practices, and container registry management.
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Container_Registry-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--stage_Builds-1f2937?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>☸️ Kubernetes & Orchestration</b> — K8s, Helm, CRDs, Operators</summary>
+<br>
+Designing and maintaining scalable Kubernetes clusters for production workloads. Setting up clusters on bare metal (k3s) and cloud-managed services (EKS, GKE). Using Helm for packaging, Custom Resource Definitions (CRDs), and Kubernetes Operators for automation.
+
+<p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black" />
   <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_GKE-4285F4?style=flat-square&logo=google-kubernetes-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRDs-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/K8s_Operators-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 </details>
 
 <details>
-<summary><b>🔄 CI/CD & GitOps</b> — GitHub Actions, ArgoCD, FluxCD, Terraform</summary>
+<summary><b>🔄 CI/CD Pipelines</b> — GitHub Actions, GitLab CI, Automated Testing</summary>
 <br>
-Building automated pipelines for rapid, reliable deployments. Implementing GitOps workflows with ArgoCD and FluxCD, using Git as the single source of truth. Infrastructure provisioning with Terraform and configuration management with Ansible.
+Building automated pipelines for rapid, reliable deployments. Implementing automated testing and linting, zero-downtime deployment strategies, and Infrastructure as Code integration.
 
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automated_Testing-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zero--downtime_Deploy-1f2937?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>🌿 GitOps & Continuous Delivery</b> — ArgoCD, FluxCD, Progressive Delivery</summary>
+<br>
+Implementing GitOps workflows for continuous deployment using Git as the single source of truth. Managing Kubernetes applications through Git repositories with progressive delivery strategies and automated cluster synchronization.
+
+<p>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/FluxCD-48BAA4?style=flat-square&logo=flux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progressive_Delivery-10b981?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>☁️ Cloud Infrastructure</b> — AWS, GCP, Cost Optimization</summary>
+<br>
+Architecting and managing cloud infrastructure across AWS (EC2, EKS, S3, RDS, VPC) and GCP (GKE, Cloud SQL, Compute Engine). Implementing best practices for cost optimization, security, and scalability.
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cost_Optimization-10b981?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>🏗️ Infrastructure as Code</b> — Terraform, Ansible</summary>
+<br>
+Automating infrastructure provisioning and configuration management using modern IaC tools. Provisioning VMs and Kubernetes clusters in AWS and GCP with Terraform, and managing configurations with Ansible.
+
+<p>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 </p>
 </details>
 
 <details>
-<summary><b>☁️ Cloud & Infrastructure</b> — AWS, GCP, Proxmox, OpenStack</summary>
+<summary><b>📊 Monitoring & Observability</b> — Prometheus, Grafana, Loki, Jaeger</summary>
 <br>
-Architecting and managing cloud infrastructure across AWS and GCP. Building virtualized environments with Proxmox and OpenStack, managing bare-metal Kubernetes clusters, and implementing network security with pfSense.
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b>📊 Monitoring & Security</b> — Prometheus, Grafana, Trivy, Vault</summary>
-<br>
-Setting up comprehensive monitoring with Prometheus and Grafana for system reliability. Implementing security with container image scanning (Trivy), secrets management (Vault), and RBAC across infrastructure.
+Setting up comprehensive monitoring with Prometheus metrics collection and Grafana dashboards. Implementing distributed tracing with Jaeger and log aggregation with EFK/Loki stack.
 
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Loki-6DB33F?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Jaeger-60C0E0?style=flat-square&logo=jaeger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Uptime_Monitoring-10b981?style=flat-square" />
 </p>
 </details>
 
 <details>
-<summary><b>💻 Languages & Tools</b> — Go, Python, Bash, PostgreSQL</summary>
+<summary><b>🖥️ Infrastructure & Virtualization</b> — Proxmox, OpenStack, pfSense</summary>
+<br>
+Building and managing virtualized environments with Proxmox VE and OpenStack. Managing Kubernetes clusters on bare-metal infrastructure and implementing network security using pfSense firewall.
+
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+</details>
+
+<details>
+<summary><b>🔒 Security & Compliance</b> — Trivy, Vault, RBAC, ISO 27001</summary>
+<br>
+Implementing security best practices across infrastructure lifecycle: container image scanning with Trivy, secrets management with HashiCorp Vault, RBAC implementation, and compliance frameworks (ISO 27001, PCI DSS).
+
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/RBAC-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/ISO_27001-1f2937?style=flat-square" />
+  <img src="https://img.shields.io/badge/PCI_DSS-1f2937?style=flat-square" />
+</p>
+</details>
+
+<details>
+<summary><b>💻 Languages & Tools</b> — Go, Python, Bash, PostgreSQL, Redis</summary>
 <br>
 Proficient in Go and Python for building CLI tools, automation scripts, and backend services. Experienced with PostgreSQL, Redis, and Nginx for data persistence and web serving.
 
