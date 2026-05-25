@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <b>DevOps Engineer • Home Lab Enthusiast • IoT Tinkerer</b>
+  <b>DevOps Engineer • Home Lab Enthusiast</b>
 </p>
 
 <p align="center">
@@ -188,7 +188,7 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
 
 ---
 
-## 📌 Pinned Project
+## 📌 Pinned Projects
 
 ### 📰 News Archive
 > Automated news aggregation and archival system that collects, categorizes, and stores articles from multiple sources with git-backed version history.
@@ -198,6 +198,20 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
   <img src="https://img.shields.io/badge/Automation-10b981?style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <a href="https://github.com/edsuwarna/news-archieve">
+    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 📚 What I Learned
+> Bilingual (EN/ID) documentation repository covering DevOps, terminal workflows, security, and infrastructure topics. Structured with multi-page format and deployed via Cloudflare Pages.
+>
+> 🌐 [whatilearned.pages.dev](https://whatilearned.pages.dev)
+
+<p>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bilingual-1f2937?style=flat-square" />
+  <a href="https://github.com/edsuwarna/whatilearned">
     <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
