@@ -203,7 +203,7 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
 </p>
 
 ### 📚 What I Learned
-> Bilingual (EN/ID) documentation repository covering DevOps, terminal workflows, security, and infrastructure topics. Structured with multi-page format and deployed via Cloudflare Pages.
+> A personal documentation of what I learned about various tools and technologies, especially in infrastructure. Bilingual — English (EN) and Bahasa Indonesia (ID).
 
 <p>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
