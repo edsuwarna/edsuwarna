@@ -204,8 +204,6 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
 
 ### 📚 What I Learned
 > Bilingual (EN/ID) documentation repository covering DevOps, terminal workflows, security, and infrastructure topics. Structured with multi-page format and deployed via Cloudflare Pages.
->
-> 🌐 [whatilearned.pages.dev](https://whatilearned.pages.dev)
 
 <p>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
