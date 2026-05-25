@@ -214,6 +214,45 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
   </a>
 </p>
 
+### 🖥️ OpsTerm
+> AI-powered terminal assistant CLI with bilingual documentation (EN/ID), multi-platform support, and intelligent command suggestions.
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bilingual-1f2937?style=flat-square" />
+  <a href="https://github.com/edsuwarna/opsterm">
+    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 🌐 ServerSphere
+> Multi-VPS management platform with FastAPI backend, PostgreSQL, RBAC authentication, and centralized server monitoring dashboard.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <a href="https://github.com/edsuwarna/serversphere">
+    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### 💰 Container Cost
+> Real-time container cost monitoring and analytics — track Docker container resource usage and estimate cloud spending.
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monitoring-10b981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dashboard-1f2937?style=flat-square" />
+  <a href="https://github.com/edsuwarna/container-cost">
+    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🏆 Achievements
