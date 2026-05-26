@@ -190,81 +190,76 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
 
 ## 📌 Pinned Projects
 
-### 📰 News Archive
-> Automated news aggregation and archival system that collects, categorizes, and stores articles from multiple sources with git-backed version history.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <a href="https://github.com/edsuwarna/news-archieve">
-    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-### 📚 What I Learned
-> A personal documentation of what I learned about various tools and technologies, especially in infrastructure. Bilingual — English (EN) and Bahasa Indonesia (ID).
-
-<p>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bilingual-1f2937?style=flat-square" />
-  <a href="https://github.com/edsuwarna/whatilearned">
-    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-### 🖥️ OpsTerm
-> AI-powered terminal assistant CLI with bilingual documentation (EN/ID), multi-platform support, and intelligent command suggestions.
-
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bilingual-1f2937?style=flat-square" />
-  <a href="https://github.com/edsuwarna/opsterm">
-    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-### 🌐 ServerSphere
-> Multi-VPS management platform with FastAPI backend, PostgreSQL, RBAC authentication, and centralized server monitoring dashboard.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <a href="https://github.com/edsuwarna/serversphere">
-    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-### 💰 Container Cost
-> Real-time container cost monitoring and analytics — track Docker container resource usage and estimate cloud spending.
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monitoring-10b981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dashboard-1f2937?style=flat-square" />
-  <a href="https://github.com/edsuwarna/container-cost">
-    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-### 🏎️ F1 Analysis
-> Formula 1 telemetry & performance analysis platform — lap times, sector performance, tyre strategy, pit stops, and driver comparisons.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <a href="https://github.com/edsuwarna/f1-analysis">
-    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top" style="padding: 6px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
+        <b>📰 News Archive</b><br>
+        <span style="color: #8b949e; font-size: 13px;">Automated news aggregation with git-backed version history.</span><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+        <a href="https://github.com/edsuwarna/news-archieve"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="33%" valign="top" style="padding: 6px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
+        <b>📚 What I Learned</b><br>
+        <span style="color: #8b949e; font-size: 13px;">Personal docs of tools & tech, bilingual EN/ID.</span><br><br>
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bilingual-1f2937?style=flat-square" /><br>
+        <a href="https://github.com/edsuwarna/whatilearned"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="34%" valign="top" style="padding: 6px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
+        <b>🖥️ OpsTerm</b><br>
+        <span style="color: #8b949e; font-size: 13px;">AI terminal assistant with bilingual docs.</span><br><br>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bilingual-1f2937?style=flat-square" /><br>
+        <a href="https://github.com/edsuwarna/opsterm"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" style="padding: 6px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
+        <b>🌐 ServerSphere</b><br>
+        <span style="color: #8b949e; font-size: 13px;">Multi-VPS mgmt with FastAPI, PostgreSQL, RBAC.</span><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+        <a href="https://github.com/edsuwarna/serversphere"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="33%" valign="top" style="padding: 6px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
+        <b>💰 Container Cost</b><br>
+        <span style="color: #8b949e; font-size: 13px;">Docker container cost monitoring & analytics.</span><br><br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Monitoring-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dashboard-1f2937?style=flat-square" /><br>
+        <a href="https://github.com/edsuwarna/container-cost"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="34%" valign="top" style="padding: 6px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
+        <b>🏎️ F1 Analysis</b><br>
+        <span style="color: #8b949e; font-size: 13px;">F1 telemetry & performance analysis platform.</span><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+        <a href="https://github.com/edsuwarna/f1-analysis"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
