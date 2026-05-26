@@ -237,6 +237,7 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
         <a href="https://github.com/edsuwarna/serversphere"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://serversphere.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
     <td width="33%" valign="top" style="padding: 6px;">
