@@ -200,6 +200,7 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
         <img src="https://img.shields.io/badge/Automation-10b981?style=flat-square" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
         <a href="https://github.com/edsuwarna/news-archieve"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://news.edsuwarna.id"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
     <td width="33%" valign="top" style="padding: 6px;">
@@ -210,6 +211,7 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
         <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
         <img src="https://img.shields.io/badge/Bilingual-1f2937?style=flat-square" /><br>
         <a href="https://github.com/edsuwarna/whatilearned"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://notes.edsuwarna.id"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
     <td width="34%" valign="top" style="padding: 6px;">
@@ -221,6 +223,7 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
         <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
         <img src="https://img.shields.io/badge/Bilingual-1f2937?style=flat-square" /><br>
         <a href="https://github.com/edsuwarna/opsterm"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://opsterm.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
   </tr>
@@ -245,6 +248,7 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
         <img src="https://img.shields.io/badge/Monitoring-10b981?style=flat-square" />
         <img src="https://img.shields.io/badge/Dashboard-1f2937?style=flat-square" /><br>
         <a href="https://github.com/edsuwarna/container-cost"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://container-cost.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
     <td width="34%" valign="top" style="padding: 6px;">
@@ -256,6 +260,7 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
         <a href="https://github.com/edsuwarna/f1-analysis"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://f1-analysis.edsuwarna.id"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
   </tr>
