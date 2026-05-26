@@ -253,6 +253,19 @@ Proficient in Go and Python for building CLI tools, automation scripts, and back
   </a>
 </p>
 
+### 🏎️ F1 Analysis
+> Formula 1 telemetry & performance analysis platform — lap times, sector performance, tyre strategy, pit stops, and driver comparisons.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <a href="https://github.com/edsuwarna/f1-analysis">
+    <img src="https://img.shields.io/badge/View_on_GitHub-1f2937?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🏆 Achievements
