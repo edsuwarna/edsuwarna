@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edsuwarna&color=10b981&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/edsuwarna?style=flat-square&color=10b981&label=Followers" />
-  <img src="https://img.shields.io/github/stars/edsuwarna?style=flat-square&color=10b981&label=Total+Stars" />
 </p>
 
 ---
