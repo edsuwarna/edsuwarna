@@ -51,31 +51,20 @@ I'm a DevOps Engineer passionate about cloud infrastructure, bare-metal servers,
   <tr>
     <td width="33%" valign="top" style="padding: 6px;">
       <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
-        <b>🏎️ F1 Analysis</b><br>
-        <span style="color: #8b949e; font-size: 13px;">F1 telemetry & performance analysis platform with real-time data ingestion.</span><br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <b>🔧 Anjungan</b><br>
+        <span style="color: #8b949e; font-size: 13px;">Internal Developer Platform (IDP) with 2FA, audit logging, and service catalog management.</span><br><br>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-        <a href="https://github.com/edsuwarna/f1-analysis"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://f1-analysis.edsuwarna.id"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/edsuwarna/anjungan"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://anjungan-idp.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
     <td width="33%" valign="top" style="padding: 6px;">
       <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
-        <b>🏍️ MotoGP Analysis</b><br>
-        <span style="color: #8b949e; font-size: 13px;">MotoGP rider & race analysis with interactive charts.</span><br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
-        <a href="https://github.com/edsuwarna/motogp-analysis"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
-      </div>
-    </td>
-    <td width="34%" valign="top" style="padding: 6px;">
-      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
         <b>🖥️ OpsTerm</b><br>
-        <span style="color: #8b949e; font-size: 13px;">AI terminal assistant with bilingual docs (EN/ID).</span><br><br>
+        <span style="color: #8b949e; font-size: 13px;">Terminal with AI features inspired by warp.dev. Bilingual docs (EN/ID).</span><br><br>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Documentation-10b981?style=flat-square" />
@@ -84,30 +73,42 @@ I'm a DevOps Engineer passionate about cloud infrastructure, bare-metal servers,
         <a href="https://opsterm.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" style="padding: 6px;">
-      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
-        <b>🌐 ServerSphere</b><br>
-        <span style="color: #8b949e; font-size: 13px;">Multi-VPS mgmt with FastAPI, PostgreSQL, RBAC.</span><br><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-        <a href="https://github.com/edsuwarna/serversphere"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://serversphere.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-      </div>
-    </td>
-    <td width="33%" valign="top" style="padding: 6px;">
+    <td width="34%" valign="top" style="padding: 6px;">
       <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
         <b>💰 Container Cost</b><br>
-        <span style="color: #8b949e; font-size: 13px;">Docker container cost monitoring & analytics.</span><br><br>
+        <span style="color: #8b949e; font-size: 13px;">Multi-VPS Docker container cost calculator with agent & central server architecture.</span><br><br>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Monitoring-10b981?style=flat-square" />
         <img src="https://img.shields.io/badge/Dashboard-1f2937?style=flat-square" /><br>
         <a href="https://github.com/edsuwarna/container-cost"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
         <a href="https://container-cost.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" style="padding: 6px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
+        <b>🌊 Arus</b><br>
+        <span style="color: #8b949e; font-size: 13px;">Lightweight self-hosted CDC & ETL platform — data flows without the cluster.</span><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+        <a href="https://github.com/edsuwarna/arus"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://arus-data.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="33%" valign="top" style="padding: 6px;">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 14px 12px; background: #0d1117; min-height: 140px;">
+        <b>🌐 ServerSphere</b><br>
+        <span style="color: #8b949e; font-size: 13px;">Multi-server management dashboard with RBAC and real-time monitoring.</span><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+        <a href="https://github.com/edsuwarna/serversphere"><img src="https://img.shields.io/badge/GitHub-1f2937?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://serversphere.pages.dev"><img src="https://img.shields.io/badge/Web-10b981?style=flat-square&logo=google-chrome&logoColor=white" /></a>
       </div>
     </td>
     <td width="34%" valign="top" style="padding: 6px;">
